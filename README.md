@@ -1,6 +1,37 @@
-## Hi there 👋
+# Nicholas Odhiambo
+
+Linux Systems Administrator | Linux Trainer | DevOps Enthusiast
+
+I am a Linux professional with 4+ years experience training:
+
+- Linux Essentials
+- LPIC-1
+- LPIC-2
+- Comptia Linux+
+
+I specialize in Linux system administration, Linux Networking Engineering, Scripting, automation and DevOps tools.
+
+## Skills
+
+Linux: Ubuntu, ParrotOS, Kali, AlmaLinux, RedHat  
+Automation: Bash, Python, Ansible  
+Containers: Docker  
+Monitoring: Prometheus, Grafana  
+
+## Current Focus
+
+Transitioning from Linux Systems Administration to DevOps Engineering.
+
+## Repositories
+
 
 <!--
+linux-administration-labs  
+bash-sysadmin-tools  
+docker-labs  
+devops-infrastructure-labs  
+linux-troubleshooting-scenarios
+
 **nicholas-odhiambo/nicholas-odhiambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
