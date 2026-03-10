@@ -3,10 +3,7 @@
 Linux Administrator | Linux Trainer | DevOps | Coding
 
 I am a Linux professional with 5+ years experience training:
-- Linux Essentials
-- LPIC-1
-- LPIC-2
-- Comptia Linux+
+- Linux Essentials, LPIC-1, LPIC-2, Comptia Linux+
 
 I specialize in Linux system administration, Linux Networking Engineering, Scripting, automation and DevOps tools.
 
