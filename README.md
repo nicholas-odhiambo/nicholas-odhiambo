@@ -17,11 +17,7 @@ Automation and Scripting: Bash, Python, Ansible
 Containers: Docker  
 Monitoring: Prometheus, Grafana  
 
-## Current Focus
 
-Transitioning from Linux Systems Administration to DevOps Engineering.
-
-## Repositories
 
 
 <!--
