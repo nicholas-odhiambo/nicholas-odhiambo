@@ -1,6 +1,6 @@
 # Nicholas Odhiambo
 
-Linux Administrator | Linux Trainer | DevOps | Coding
+Linux Administrator | Linux Trainer  | Python| DevOps
 
 I am a Linux professional with 5+ years experience training:
 - Linux Essentials, LPIC-1, LPIC-2, Comptia Linux+
