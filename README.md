@@ -1,6 +1,6 @@
 # Nicholas Odhiambo
 
-Linux Administrator | Linux Trainer  | Python| DevOps
+Linux Administrator & Trainer |Programming | DevOps
 
 I am a Linux professional with 5+ years experience training:
 - Linux Essentials, LPIC-1, LPIC-2, Comptia Linux+
@@ -13,6 +13,7 @@ Linux: Ubuntu, ParrotOS, Kali, AlmaLinux, RedHat
 Automation and Scripting: Bash, Python, Ansible  
 Containers: Docker  
 Monitoring: Prometheus, Grafana  
+Database: PostgreSQL
 
 
 
